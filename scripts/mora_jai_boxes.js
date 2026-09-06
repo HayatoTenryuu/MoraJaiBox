@@ -39,7 +39,7 @@ export const mora_jai_data = [
     solution: "78526"
   },
   { location: "Inner sanctum Orindia",
-    pattern:"green black green black black black green yellow green black black black black",
+    pattern: "green black green black black black green yellow green black black black black",
     solution: "2661143222928"
   },
   {
@@ -89,7 +89,7 @@ export const mora_jai_data = [
   },
   {
     location: "The Unknown Box #3",
-    pattern: " black black black grey grey grey pink violet orange black black black black",
+    pattern: "black black black grey grey grey pink violet orange black black black black",
     solution: "144453396"
   },
   {
